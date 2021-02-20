@@ -16,3 +16,4 @@
 |14|[Is Graph Bipartite?](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3639/)|
 |17|[Container With Most Water](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3643/)|
 |18|[Arithmetic Slices](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3644/)|
+|19|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3645/)|
